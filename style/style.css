@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+    /*background-color: black; 373737*/
+}
+
+body {
+    overflow-x: hidden;
+    text-align: center;
+}
+
+.home {
+    width: 100%;
+    height: 120px;
+
+    padding-top: 20px;
+
+    background-color: red;
+}
+
+.home h1 {
+    margin-bottom: 20px;
+}
+
+.home a {
+    margin: 5px;
+    padding: 5px;
+    
+    font-size: 30px;
+    border: 5px solid;
+}
+
+.bio {
+    padding: 30px;
+
+    font-size: 25px;
+    background-color: blue;
+}
+
+.bio .informacoes {
+    width: 1500px;
+
+    display: flex;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.bio p {
+    width: 800px;
+
+    margin: 0 auto;
+
+    text-align: justify;
+}
+
+.bio img {
+    width: 280px;
+
+    margin: 0 auto;
+    margin-right: 210px;
+
+    border-radius: 20%;
+    border: 5px solid ;
+}
+
+.container-skills {
+    padding: 50px;
+    
+    font-size: 25px;
+    background-color: aqua;
+}
+
+.container-skills h3, li {
+    margin-bottom: 20px;
+}
+
+.hard-skills {
+    max-width: 700px;
+    
+    margin: 0 0 0 95px;
+    display: inline-block;
+    
+    text-align: justify;
+}
+
+.soft-skills {
+    max-width: 700px;
+    
+    margin: 0 0 0 110px;
+    display: inline-block;
+
+    text-align: justify;
+}
+
+.container-hard-skills {
+    background-color: blue;
+}
+
+.container-soft-skills {
+    background-color: aqua;
+}
+
+.redesSociais {
+    width: 100%;
+
+    padding: 50px;
+
+    font-size: 25px;
+    background-color: green;
+}
+
+.icones img {
+    width: 100px;
+
+    padding: 30px;
+    padding-bottom: 10px;
+}
+
+.icones {
+    margin-right: 130px;
+}
+
+
+
+
+
